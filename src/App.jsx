@@ -1,6 +1,5 @@
 import './App.css'
 import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import Input from './components/input'
 import Tareas from './components/tareas'
 import { useState } from 'react';
